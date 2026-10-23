@@ -5,12 +5,6 @@ kernel_headers {
 }
 
 kernel_headers {
-    name: "libubwcp_headers",
-    vendor_available: true,
-    recovery_available: true,
-}
-
-kernel_headers {
     name: "qti_kernel_headers",
     vendor_available: true,
     recovery_available: true,
